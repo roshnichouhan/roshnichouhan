@@ -1,110 +1,152 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px"> I'm roshni chauhan</h1>
-<h3 align="center">Computer Science Student | Data Science & ML | Full-Stack Developer</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=roshnichouhan">
-    <img src="https://komarev.com/ghpvc/?username=roshnichouhan&label=Profile%20views&color=00FFFF&style=flat-square" alt="roshnichouhan's profile views" />
-  </a>
+# 👋 Hi, I'm <span style="color:#58A6FF;">Roshni Chauhan</span>
+
+### 💻 Computer Science Student | Data Science & ML | Full-Stack Developer
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Data+Science+%26+Machine+Learning;Python+%7C+JavaScript+%7C+React;Full-Stack+Development;Building+Real-World+Projects;Learn+%7C+Build+%7C+Improve+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-## 📌 About Me
-- 🎓 I'm a Computer Science student passionate about software development, data science and machine learning.
-- 🚀 I'm currently building real-world Python, ML and full-stack projects.
-- 🌱 I'm currently learning Data Structures & Algorithms, backend development and cloud technologies.
-- 🤝 I'm open to collaborating on meaningful projects and open-source contributions.
-- 🎯 I'm focused on becoming a strong software engineer and building production-ready applications.
+<p>
+  <img src="https://komarev.com/ghpvc/?username=roshnichouhan&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/roshnichouhan?label=Followers&style=for-the-badge&logo=github" alt="Followers" />
+</p>
 
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Computer Science student passionate about **Software Engineering, Data Science & Machine Learning**
+- 🚀 Building practical **Python, ML and Full-Stack applications**
+- 🧠 Strengthening my problem-solving skills through **Data Structures & Algorithms**
+- 🌱 Currently learning **Backend Development, Machine Learning and Cloud Technologies**
+- 🤝 Open to collaborating on **meaningful projects and open-source**
+- 🎯 Focused on building **production-ready applications**
+- 📍 Based in **Greater Noida, India**
+
+---
 
 ## 🧠 My Focus Areas
-- ☑ Web Development
-- ☑ AI/ML Research
-- ☑ Open Source Contribution
 
+| 🌐 Web Development | 🤖 Machine Learning | 📊 Data Science |
+|:---:|:---:|:---:|
+| React • Node.js | Scikit-learn • TensorFlow | Pandas • NumPy |
+| JavaScript • HTML • CSS | Classification • Prediction | EDA • Visualization |
+| Express • MongoDB | Feature Engineering | Matplotlib • Seaborn |
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/roshnichouhan">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=roshnichouhan&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="roshnichouhan's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=roshnichouhan&theme=dracula&hide_border=true&cache_seconds=86400" alt="roshnichouhan's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=roshnichouhan&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="roshni chauhan's GitHub Trophies" />
-</p>
+---
 
+# 🛠️ Tech Stack
 
-## 🛠️ Languages & Tools
+### 👩‍💻 Programming Languages
 
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
-
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js" />
 </p>
 
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
+### 🌐 Frontend
 
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
 </p>
 
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
+### ⚙️ Backend
 
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
+### 🗄️ Database
 
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-<h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" />
+### 🐳 DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,vite" />
+</p>
+
+### 📊 Data Science & Machine Learning
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 
 </p>
 
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
+---
 
-</p>
+# 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/roshnichouhan">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=roshnichouhan&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
+<div align="center">
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/roshni-chauhan-80447b230/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="roshni chauhan's LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="mailto:roshnichauhan128@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="roshni chauhan's Email"/></a>&nbsp;&nbsp;
-  <a href="https://wa.me/918383974587"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-</p>
+| 🤖 Project | 📝 Description | 🛠️ Technologies |
+|:---|:---|:---|
+| **[Predictive Maintenance](https://github.com/roshnichouhan/Predictive-Maintenance-for-Machinery)** | Predict machinery failures using historical sensor data | Python • ML • Random Forest • LSTM |
+| **[Fraud Detection Banking](https://github.com/roshnichouhan/Fraud_detection_banking)** | Detect potentially fraudulent banking transactions | Python • ML • Pandas |
+| **[Social Media Sentiment Tracker](https://github.com/roshnichouhan/social-media-sentiment-tracker)** | Analyze sentiment from social media data | Python • NLP • ML • Streamlit |
+| **[Student Result Analyzer](https://github.com/roshnichouhan/student-result-analyzer)** | Analyze student performance and generate insights | Python • Pandas |
+| **[News App](https://github.com/roshnichouhan/News-app)** | React application for fetching and displaying news | React • JavaScript • API |
+| **[Text Translator](https://github.com/roshnichouhan/text-translator)** | Multilingual translation web application | React • Vite • JavaScript |
 
-## 💬 Quote
-> Build. Learn. Improve. Repeat. 🚀
+</div>
 
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+---
 
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=roshnichouhan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshnichouhan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=roshnichouhan&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=roshnichouhan&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+
+</div>
+
+---
+
+# 🎯 Currently Learning
+
+```text
+Data Structures & Algorithms
+        ↓
+Backend Development
+        ↓
+Machine Learning
+        ↓
+Cloud & Deployment
+        ↓
+Production-Ready Applications
