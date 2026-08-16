@@ -108,7 +108,7 @@
 
 ---
 
-# 📊 GitHub Analytics
+
 
 # 📊 GitHub Analytics
 
@@ -124,10 +124,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshnichouha
 
 <br>
 
-<div align="center">
-
-<img width="70%"
-src="https://streak-stats.demolab.com?user=roshnichouhan&theme=tokyonight&hide_border=true" />
 
 </div>
 
